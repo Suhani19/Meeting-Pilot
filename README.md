@@ -135,7 +135,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 #### `backend/.env`
 ```env
-SLACK_BOT_TOKEN=xoxb-your-slack-bot-token
+SLACK_BOT_TOKEN=your-slack-bot-token
 SLACK_CHANNEL_ID=C08DEMO1234
 SWYTCHCODE_PROJECT_ROOT=c:/Users/suhan/Downloads/Monad project/swytchcode
 DEMO_MODE=true
