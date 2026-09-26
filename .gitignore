@@ -1,0 +1,5 @@
+.swytchcode/workspace.json
+
+# Environment secrets
+.env
+**/.env
